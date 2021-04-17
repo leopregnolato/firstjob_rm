@@ -4,4 +4,4 @@ Esse projeto trata-se do meu primeiro trabalho como desenvolvedor front-end e ba
 A página apresenta responsividade para diferentes telas e o design foi desenvolvido pelo 
 designer e publicitário [Franklin Jr.](https://www.instagram.com/franklincsxjr/).
 A página está implementada no wordpress.
-Para acessar o domínio do trabalho clique [AQUI](http://renenmagera.com).
+Para acessar o domínio do trabalho clique [AQUI](http://renanmagera.com).
